@@ -3,3 +3,5 @@
 
  Repositório criado com o intuito de aprender a interagir com as 
  ferramentas Git e GitHub da maneira correta, desde a sua história até seu funcionamento.
+
+Esta linha fiz alteração diretamente pelo GitHub!
